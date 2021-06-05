@@ -1,2 +1,2 @@
-# tgsa
-Taiwanese Graduate Student Association
+# Taiwanese Graduate Student Association in Vancouver
+@ UPDATING
